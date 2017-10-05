@@ -1,0 +1,33 @@
+PATRICK TORAL (cruzID: ptoral)
+
+I HAVE READ AND UNDERSTOOD THE ACADEMIC MISCONDUCT POLICY FOR UNDERGRADUATES, THE RELATED SECTIONS 102.01-102.016 AND 105.15 OF THE UC SANTACRUZ STUDENT POLICIES AND REGULATIONS HANDBOOK, AND THE RELATED SECTINOS OF THE CLASS SYLLABUS.
+
+Patrick Jose Toral
+
+I WROTE THIS ASSIGNMENT USING ONLY PERMITTED SOURCES THAT DO NOT REQUIRE CITATION, ACCORDING TO THE SYLLABUS 
+
+
+-------------------------------------------------------------------------
+INSTRUCTIONS TO RUN:
+1. make
+2. ./graph01 (test file)
+
+MakeFile COMMANDS:
+make - creates graph01
+make graph01 - creates .o files for the c files
+make clean - removes .o files and executable
+
+
+TO GET THE .o FILES and TO MAKE BINARY:
+1. make clean
+2. make graph01
+3. make 
+By this time you will hava all .o's and the binary file
+
+TEST FILE INFORMATION :
+test1.txt - correct input 
+test2.txt - incorrect input too many characters given to edge 
+test3.txt - incorrect input too many characters given to first line 
+test4.txt - incorrect input number given to edge > n, which wouldnt exist
+
+-------------------------------------------------------------------------
